@@ -1,6 +1,7 @@
 # AlphaCare Insurance Solutions (ACIS)
 
-The ACIS project is dedicated to advancing risk and predictive analytics within car insurance planning and marketing in South Africa, representing an innovative insurance solution that leverages advanced technology and data analytics. The primary objectives of ACIS are to optimize insurance processes, elevate risk assessment capabilities, and enhance customer experiences, all achieved through the utilization of advanced technologies, specifically predictive modeling and data analytics.
+The ACIS project is dedicated to advancing risk and predictive analytics within car insurance planning and marketing in South Africa, representing an innovative insurance solution that leverages advanced technology and data analytics. The primary objectives of ACIS are to optimize insurance processes, elevate risk assessment capabilities, and enhance customer experiences, all achieved through the utilization of advanced technologies, specifically predictive modeling and data
+analytics.
 
 ## Usage Instructions
 
